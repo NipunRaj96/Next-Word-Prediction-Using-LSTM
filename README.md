@@ -35,7 +35,7 @@ The model uses raw text data from Sherlock Holmes stories, loaded from a `.txt` 
 - Optimizer: Adam  
 - Loss: Categorical Crossentropy  
 - Accuracy: ~75%  
-- EarlyStopping based on accuracy (patience = 15)  
+- EarlyStopping based on accuracy
 - Trained over 80 epochs
 
 ## 🚀 Prediction Example
